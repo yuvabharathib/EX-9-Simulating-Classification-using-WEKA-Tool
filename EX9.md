@@ -9,6 +9,10 @@ WEKA - an open source software provides tools for data preprocessing, implementa
 
   ![image](https://github.com/dineshgl/EX-9-Simulating-Classification-using-WEKA-Tool/assets/143793356/c3702dff-f72d-4ba1-9cca-eb444358ab21)
 
+## CLASSIFICATION:
+<div align="justify">
+Classification in data mining is a common technique that separates data points into different classes. It allows you to organize data sets of all sorts, including complex and large datasets as well as small and simple ones. It primarily involves using algorithms that you can easily modify to improve the data quality. This is a big reason why supervised learning is particularly common with classification in techniques in data mining. The Classification algorithm is a Supervised Learning technique that is used to identify the category of new observations on the basis of training data. In Classification, a program learns from the given dataset or observations and then classifies new observation into a number of classes or groups. Such as, Yes or No, 0 or 1, Spam or Not Spam, cat or dog, etc. Classes can be called as targets/labels or categories.<br>
+  
 ## PROCEDURE
 1. Load the data file into the WEKA explorer. The data can be loaded from the following sources −
    Local file system
